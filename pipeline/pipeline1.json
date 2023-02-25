@@ -220,8 +220,7 @@
 		],
 		"parameters": {
 			"folderoutput": {
-				"type": "string",
-				"defaultValue": "output1"
+				"type": "string"
 			}
 		},
 		"annotations": []
