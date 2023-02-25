@@ -241,7 +241,8 @@
 		],
 		"parameters": {
 			"folderoutput": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "outpu1"
 			}
 		},
 		"annotations": []
